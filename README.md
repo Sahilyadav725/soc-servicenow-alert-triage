@@ -1,3 +1,4 @@
+<img width="1336" height="488" alt="alert01-investigation png" src="https://github.com/user-attachments/assets/797507cb-1a14-4ec6-bd17-6470f2ccaca6" />
 # 🛡️ SOC Analyst Project: Alert Triage & Incident Escalation in ServiceNow
 A comprehensive SOC Tier-1 simulation demonstrating queue management, alert triage, severity classification, analyst documentation, and escalation protocols using **ServiceNow ITSM/SIR**.
 ---
@@ -11,7 +12,8 @@ This project simulates a full L1 shift triage handling **12 security alerts** ac
 * Execute containment workflows and justify incident escalations to Tier-2 / Incident Response.
 ---
 ## 📊 Incident Queue & ServiceNow Setup
-![ServiceNow Incident Queue](servicenow-queue.png)
+<img width="1363" height="541" alt="servicenow-queue png - Copy" src="https://github.com/user-attachments/assets/78f3d914-98bf-4e49-9b41-ac53d7dba9e1" />
+
 ---
 ## 📋 Master Alert Triage & Verdict Sheet
 
@@ -48,8 +50,10 @@ Alert 04 (PowerShell download cradle via browser)
 
 📝 Analyst Note Examples
 ​Malicious Escalation (Alert 01)
+<img width="1336" height="488" alt="alert01-investigation png" src="https://github.com/user-attachments/assets/c950c956-c7ef-4e81-adce-afcda0f49ea4" />
 
 Benign False Alarm (Alert 06)
+<img width="1357" height="488" alt="alert06-benign png" src="https://github.com/user-attachments/assets/80fc4df7-25fc-48cc-8543-a24f74888ffa" />
 
 🛠️ Tools & Technologies
 ​Ticketing & Incident Management: ServiceNow ITSM
