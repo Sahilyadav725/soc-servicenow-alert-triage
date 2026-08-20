@@ -1,4 +1,3 @@
-<img width="1336" height="488" alt="alert01-investigation png" src="https://github.com/user-attachments/assets/797507cb-1a14-4ec6-bd17-6470f2ccaca6" />
 # 🛡️ SOC Analyst Project: Alert Triage & Incident Escalation in ServiceNow
 A comprehensive SOC Tier-1 simulation demonstrating queue management, alert triage, severity classification, analyst documentation, and escalation protocols using **ServiceNow ITSM/SIR**.
 ---
