@@ -42,9 +42,7 @@ Alert 01 (Stolen Credentials Login via Russian IP)
 [Attack Chain 2: External Delivery & Exfiltration]
 Alert 04 (PowerShell download cradle via browser) 
    └──> Alert 07 (Base64 obfuscated execution on FINANCE-PC-02)
-           └──> Alert 08 (4.8 GB outbound C2 exfiltration at 03:00 AM)<img width="1363" height="541" alt="servicenow-queue png" src="https://github.com/user-attachments/assets/d517a431-7500-4e08-aa08-c4b29c0f35c1" />
-<img width="1355" height="492" alt="Screenshot 2026-08-17 133850" src="https://github.com/user-attachments/assets/edec05cd-8b81-4103-a862-2f3b1c993a3e" />
-<img width="1336" height="488" alt="alert01-investigation png" src="https://github.com/user-attachments/assets/32d77b33-954d-4214-9276-d50ef4125672" />
+           └──> Alert 08 (4.8 GB outbound C2 exfiltration at 03:00 AM)
 ```
 
 📝 Analyst Note Examples
