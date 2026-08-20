@@ -55,6 +55,9 @@ Benign False Alarm (Alert 06)
 <img width="1357" height="488" alt="alert06-benign png" src="https://github.com/user-attachments/assets/80fc4df7-25fc-48cc-8543-a24f74888ffa" />
 
 🛠️ Tools & Technologies
+
 ​Ticketing & Incident Management: ServiceNow ITSM
+
 ​Telemetry Sources: Okta Identity Logs, EDR Agents, Perimeter Firewalls, Web Proxies
+
 ​Frameworks: MITRE ATT&CK, NIST SP 800-61 Rev. 2
